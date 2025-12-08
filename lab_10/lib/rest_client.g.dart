@@ -1,8 +1,5 @@
 
-
 part of 'rest_client.dart';
-
-
 
 class _RestClient implements RestClient {
   _RestClient(

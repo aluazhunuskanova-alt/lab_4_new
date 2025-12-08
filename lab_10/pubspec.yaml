@@ -4,12 +4,6 @@ flutter:
   uses-material-design: true
 
   assets:
-    - assets/translations/
-
-flutter:
-  uses-material-design: true
-
-  assets:
     - assets/translations/kk.json
     - assets/translations/ru.json
 

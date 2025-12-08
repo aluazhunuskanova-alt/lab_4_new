@@ -288,8 +288,6 @@ class _RegistrationPageState extends State<RegistrationPage> {
   }
 }
 
-// ================== Main Page (loads Profile from API) ==================
-
 class MainPage extends StatelessWidget {
   const MainPage({super.key});
 
