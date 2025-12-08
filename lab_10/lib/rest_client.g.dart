@@ -46,7 +46,7 @@ class _RestClient implements RestClient {
     try {
       value = Profile.fromJson(result.data!);
     } on Object catch (e, s) {
-      // IMPORTANT: 4 arguments here – error, stackTrace, options, response
+    
       errorLogger?.logError(e, s, options, result);
       rethrow;
     }
