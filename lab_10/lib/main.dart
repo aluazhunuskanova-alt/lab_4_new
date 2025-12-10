@@ -41,9 +41,6 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
-// ================== Registration Page (Lab 9 + Bloc) ==================
-
 class RegistrationPage extends StatefulWidget {
   const RegistrationPage({super.key});
 
