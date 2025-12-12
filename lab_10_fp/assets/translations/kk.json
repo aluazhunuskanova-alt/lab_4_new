@@ -1,0 +1,12 @@
+{
+  "hello": "Сәлем",
+  "fullName": "Аты",
+  "age": "Жасы",
+  "phone": "Телефон нөмірі *",
+  "email": "Электронды пошта",
+  "password": "Құпия сөз *",
+  "confirmPassword": "Құпия сөзді растаңыз *",
+  "submit": "Жіберу",
+  "login_button": "Кіру",
+  "signup_button": "Тіркелу"
+}
